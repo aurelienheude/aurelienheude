@@ -43,8 +43,6 @@ Mon attrait pour le développement front-end est profondément enraciné dans ma
 
 <br /><br />
 
-#
-
 ### 📊 Stats
 
 ![aurel's GitHub stats](https://github-readme-stats.vercel.app/api?username=aurelienheude&show_icons=true&theme=gruvbox)
