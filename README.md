@@ -1,5 +1,7 @@
 # 🙋 Aurélien Heude
 
+<img alt="aurelien heude" width="100%" height="auto" src="https://media.licdn.com/dms/image/C4D16AQENFSyTNaPBmw/profile-displaybackgroundimage-shrink_350_1400/0/1648126945655?e=1703721600&v=beta&t=J0q3Yl5W02hM63qZn5wjNFDv_mu0wRQsGKzj7ies-4Y" />
+
 **`Développeur Front-end React/SASS`**
 
 Mon attrait pour le développement front-end est profondément enraciné dans ma passion précoce pour la technologie et mon parcours d'apprentissage assez atypique. À 15 ans, j'ai découvert le développement web grâce à un professeur de mathématiques créatif qui utilisait du javaScript et de l'html pour créer un compte à rebourd qu'il affichait sur le tableau pour faire stressé les étudiants. Cette expérience a été un moment décisif qui a enflammé mon intérêt pour le développement web. À 16 ans, j'ai monté mon premier ordinateur en utilisant des pièces récupérées, une aventure qui m'a permis de comprendre les composants matériels et d'obtenir une coque de tour de la part de mon professeur d'électronique en échange d'une bonne note aha.
