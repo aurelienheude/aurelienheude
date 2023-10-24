@@ -52,8 +52,7 @@ Mon attrait pour le développement front-end est profondément enraciné dans ma
 
 #
 
-<details>
- <summary><h3>👨‍💻 Ma vision du métier de développement front</h3></summary>
+<h3>👨‍💻 Ma vision du métier de développement front</h3>
    Je suis animé par l'idée que le développement front-end est bien plus qu'un simple métier, c'est un art. C'est la fusion de la technologie et de la créativité pour offrir des expériences utilisateur exceptionnelles. Mon objectif est de repousser les limites de l'innovation, en créant des sites web modernes, adaptatifs et conviviaux. Mon parcours, marqué par des rencontres inspirantes et des expériences uniques, continue de me motiver à grandir en tant que développeur web et à contribuer à l'évolution constante du web.
 
 [Mon Site Web]: https://aurelienheude.com
