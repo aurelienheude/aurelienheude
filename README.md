@@ -21,6 +21,7 @@ Mon attrait pour le développement front-end est profondément enraciné dans ma
 
 ### 🧰 Languages et outils
 
+<p align="left">
 <img align="left" alt="HTML" width="40px" height="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="40px" height="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="Sass" width="40px" height="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
@@ -40,10 +41,11 @@ Mon attrait pour le développement front-end est profondément enraciné dans ma
 <img align="left" alt="figma" width="40px" height="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <img align="left" alt="trello" width="40px" height="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
 <img align="left" alt="vscode" width="40px" height="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+</p>
 
 <br />
-<br />
-<br />
+
+#
 
 ### 📊 Stats
 
