@@ -1,5 +1,3 @@
-# 🙋 Aurélien Heude
-
 <img alt="aurelien heude" width="100%" height="auto" src="https://media.licdn.com/dms/image/C4D16AQENFSyTNaPBmw/profile-displaybackgroundimage-shrink_350_1400/0/1648126945655?e=1703721600&v=beta&t=J0q3Yl5W02hM63qZn5wjNFDv_mu0wRQsGKzj7ies-4Y" />
 
 **`Développeur Front-end React/SASS`**
