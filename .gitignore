@@ -1,0 +1,3 @@
+# Fichier Gitignore pour ignorer les fichier/dossier non voulu dans le projet
+
+.vscode/
