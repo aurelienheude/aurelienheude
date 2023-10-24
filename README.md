@@ -21,8 +21,9 @@ Mon attrait pour le développement front-end est profondément enraciné dans ma
 
 ### 🧰 Languages et outils
 
-<p align="left">
-<img  alt="HTML" width="40px" height="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<p align="center">
+<br />
+<img  alt="HTML" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img  alt="CSS" width="40px" height="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img  alt="Sass" width="40px" height="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 <img  alt="JavaScript" width="40px" height="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -31,7 +32,7 @@ Mon attrait pour le développement front-end est profondément enraciné dans ma
 <img  alt="Jest" width="40px" height="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 <img  alt="Python" width="40px" height="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img  alt="Php" width="40px" height="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-<img  alt="Symfony" width="40px" height="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" />
+<img  alt="Symfony" width="40px" height="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" /><br />
 <img  alt="npm" width="40px" height="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 <img  alt="bootstrap" width="40px" height="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
 <img  alt="mysql" width="40px" height="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
@@ -40,7 +41,6 @@ Mon attrait pour le développement front-end est profondément enraciné dans ma
 <img  alt="slack" width="40px" height="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
 <img  alt="figma" width="40px" height="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <img  alt="trello" width="40px" height="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
-<img  alt="vscode" width="40px" height="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </p><br />
 
 #
