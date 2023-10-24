@@ -41,7 +41,9 @@ Mon attrait pour le développement front-end est profondément enraciné dans ma
 <img align="left" alt="trello" width="30px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
 <img align="left" alt="vscode" width="30px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
-<br /><br />
+<br />
+<br />
+<br />
 
 ### 📊 Stats
 
