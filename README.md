@@ -41,9 +41,7 @@ Mon attrait pour le développement front-end est profondément enraciné dans ma
 <img  alt="figma" width="40px" height="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <img  alt="trello" width="40px" height="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
 <img  alt="vscode" width="40px" height="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-</p>
-
-<br />
+</p><br />
 
 #
 
