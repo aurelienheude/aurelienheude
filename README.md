@@ -6,10 +6,9 @@ Mon attrait pour le développement front-end est profondément enraciné dans ma
 
    <p align="left">
     <img src="https://komarev.com/ghpvc/?username=aurelienheude&label=Profil%20vu&color=0e75b6&style=for-the-badge" alt="aurelienheude" />
-      <a href="https://github.com/aurelienheude?tab=followers"><img alt="followers" title="Suivez moi sur Github" src="https://custom-icon-badges.demolab.com/github/followers/aurelienheude?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/> <a href="https://github.com/aurelienheude?tab=repositories&sort=stargazers"><img alt="total de like" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/aurelienheude?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
-- 🔭 Je travail actuellement sur : **Portfolio**
+- 🔭 Je travail actuellement sur : **<a href="https://aurelienheude.com">Mon Portfolio</a>**
 
 - 🌱 J'apprend actuellement le **Javascript**
 
