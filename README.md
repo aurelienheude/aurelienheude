@@ -8,7 +8,7 @@ Mon attrait pour le développement front-end est profondément enraciné dans ma
     <img src="https://komarev.com/ghpvc/?username=aurelienheude&label=Profil%20vu&color=0e75b6&style=for-the-badge" alt="aurelienheude" />
    </p>
 
-- 🔭 Je travail actuellement sur : **<a href="https://aurelienheude.com">Mon Portfolio</a>**
+- 🔭 Je travail actuellement sur : **<a href="https://aurelienheude.com">Mon Portfolio</a> & <a href="https://www.figma.com/file/vG1CWwDk1i0Xm3ToAr8PYw/La-Qu%C3%AAte-de-Naka?type=design&node-id=24%3A4&mode=design&t=YxbTah8pWIim3ygZ-1">La quête de Naka</a>**
 
 - 🌱 J'apprend actuellement le **Javascript**
 
@@ -41,12 +41,6 @@ Mon attrait pour le développement front-end est profondément enraciné dans ma
 <img  alt="figma" width="40px" height="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <img  alt="trello" width="40px" height="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
 </p><br />
-
-#
-
-### 📊 Stats
-
-![aurel's GitHub stats](https://github-readme-stats.vercel.app/api?username=aurelienheude&show_icons=true&theme=gruvbox)
 
 #
 
