@@ -8,7 +8,7 @@ Mon attrait pour le développement front-end est profondément enraciné dans ma
     <img src="https://komarev.com/ghpvc/?username=aurelienheude&label=Profil%20vu&color=0e75b6&style=for-the-badge" alt="aurelienheude" />
    </p>
 
-- 🔭 Je travail actuellement sur : **<a href="https://aurelienheude.com">Mon Portfolio</a> & <a href="https://www.figma.com/file/vG1CWwDk1i0Xm3ToAr8PYw/La-Qu%C3%AAte-de-Naka?type=design&node-id=24%3A4&mode=design&t=YxbTah8pWIim3ygZ-1">La quête de Naka</a>**
+- 🔭 Je travail actuellement sur : **<a href="https://aurelienheude.com">Mon Portfolio</a>**
 
 - 🌱 J'apprend actuellement le **Javascript**
 
