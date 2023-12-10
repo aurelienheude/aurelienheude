@@ -14,7 +14,7 @@ Mon attrait pour le développement front-end est profondément enraciné dans ma
 
 - 📫 Comment me contacter : **aurelienheudepro@gmail.com**
 
-- ⚡ Fun fact : **Gaga des chats.**
+- ⚡ Fun fact : **Gaga des chats !**
 
 ---
 
